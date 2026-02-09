@@ -5,8 +5,6 @@ library(ggplot2)
 library(dplyr)
 
 # -------------------------------
-# Sample transaction data (matches output range)
-# -------------------------------
 set.seed(101)
 
 transactions <- data.frame(
